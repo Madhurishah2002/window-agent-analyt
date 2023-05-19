@@ -1,0 +1,1002 @@
+[{
+        "country": "Antigua and Barbuda",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "Armenia",
+        "country_code": "+374",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Aruba",
+        "country_code": "+297",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "Ascension Island",
+        "country_code": "+247",
+        "mobile_number_digit": 5
+    },
+    {
+        "country": "Australia",
+        "country_code": "+61",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Austria",
+        "country_code": "+43",
+        "mobile_number_digit": 12
+    },
+    {
+        "country": "Azerbaijan",
+        "country_code": "+994",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Bahamas",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "Bahrain",
+        "country_code": "+973",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Bangladesh",
+        "country_code": "+880",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "Barbados",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "Belarus",
+        "country_code": "+375",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Belgium",
+        "country_code": "+32",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Belize",
+        "country_code": "+501",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "Benin",
+        "country_code": "+229",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Bermuda",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "Bhutan",
+        "country_code": "+975",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Bolivia",
+        "country_code": "+591",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "country_code": "+387",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Botswana",
+        "country_code": "+267",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Brazil",
+        "country_code": "+55",
+        "mobile_number_digit": 11
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "country_code": "+246",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "British Virgin Islands",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "Brunei",
+        "country_code": "+673",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "Bulgaria",
+        "country_code": "+359",
+        "mobile_number_digit": 9
+
+    },
+    {
+        "country": "Burkina Faso",
+        "country_code": "+226",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Burundi",
+        "country_code": "+257",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Cambodia",
+        "country_code": "+855",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Cameroon",
+        "country_code": "+237",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Canada",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "Cape Verde",
+        "country_code": "+238",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "Caribbean Netherlands",
+        "country_code": "+599",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "Cayman Islands",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "Central African Republic (République centrafricaine)",
+        "country_code": "+236",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Chad (Tchad)",
+        "country_code": "+235",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Chile",
+        "country_code": "+56",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "China (中国)",
+        "country_code": "+86",
+        "mobile_number_digit": 11
+    },
+    {
+        "country": "Christmas Island",
+        "country_code": "+61",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Cocos (Keeling) Islands (Kepulauan Cocos (Keeling))",
+        "country_code": "+61",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Colombia",
+        "country_code": "+57",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "Comoros (‫جزر القمر‬‎)",
+        "country_code": "+269",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "Congo (DRC) (Jamhuri ya Kidemokrasia ya Kongo)",
+        "country_code": "+243",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Congo (Republic) (Congo-Brazzaville)",
+        "country_code": "+242",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Cook Islands",
+        "country_code": "+682",
+        "mobile_number_digit": 5
+    },
+    {
+        "country": "Costa Rica",
+        "country_code": "+506",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Côte d'Ivoire",
+        "country_code": "+225",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Croatia (Hrvatska)",
+        "country_code": "+385",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Cuba",
+        "country_code": "+53",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Curaçao ",
+        "country_code": "+599",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "Cyprus (Κύπρος)",
+        "country_code": "+357",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Czech Republic (Česká republika)",
+        "country_code": "+420",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Denmark (Danmark)",
+        "country_code": "+45",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Djibouti",
+        "country_code": "+253",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Dominica",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "Dominican Republic (República Dominicana)",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "Ecuador",
+        "country_code": "+593",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Egypt (‫مصر‬‎)",
+        "country_code": "+20",
+        "mobile_number_digit": 10
+    },
+    {
+        "country": "El Salvador",
+        "country_code": "+503",
+        "mobile_number_digit": 8
+    },
+    {
+        "country": "Equatorial Guinea (Guinea Ecuatorial)",
+        "country_code": "+240",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Eritrea",
+        "country_code": "+291",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "Estonia (Eesti)",
+        "country_code": "+372",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Ethiopia",
+        "country_code": "+251",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "Falkland Islands (Islas Malvinas)",
+        "country_code": "+500",
+        "mobile_number_digit": 5
+    },
+    {
+        "country": "Faroe Islands (Føroyar)",
+        "country_code": "+298",
+        "mobile_number_digit": 6
+    },
+    {
+        "country": "Fiji",
+        "country_code": "+679",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "Finland (Suomi)",
+        "country_code": "+358",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "France",
+        "country_code": "+33",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "French Guiana (Guyane française)",
+        "country_code": "+594",
+        "mobile_number_digit": 9
+    },
+    {
+        "country": "French Polynesia (Polynésie française)",
+        "country_code": "+689",
+        "mobile_number_digit": 6
+    },
+    {
+        "country": "Gabon",
+        "country_code": "+241",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "Gambia",
+        "country_code": "+220",
+        "mobile_number_digit": 7
+    },
+    {
+        "country": "Georgia (საქართველო)",
+        "country_code": "+995",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Germany (Deutschland)",
+        "country_code": "+49",
+        "mobile_number_digit": 11
+    }, {
+        "country": "Ghana (Gaana)",
+        "country_code": "+233",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Gibraltar",
+        "country_code": "+350",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Greece (Ελλάδα)",
+        "country_code": "+30",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Greenland (Kalaallit Nunaat)",
+        "country_code": "+299",
+        "mobile_number_digit": 6
+    }, {
+        "country": "Grenada",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Guadeloupe",
+        "country_code": "+590",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Guatemala",
+        "country_code": "+502",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Guinea (Guinée)",
+        "country_code": "+224",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Guinea-Bissau (Guiné Bissau)",
+        "country_code": "+245",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Guyana",
+        "country_code": "+592",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Haiti",
+        "country_code": "+509",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Honduras",
+        "country_code": "+504",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Hong Kong (香港)",
+        "country_code": "+852",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Hungary (Magyarország)",
+        "country_code": "+36",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Iceland (Ísland)",
+        "country_code": "+354",
+        "mobile_number_digit": 7
+    }, {
+        "country": "India (भारत)",
+        "country_code": "+91",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Indonesia",
+        "country_code": "+62",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Iran (‫ایران‬‎)",
+        "country_code": "+98",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Iraq (‫العراق‬‎)",
+        "country_code": "+964",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Ireland",
+        "country_code": "+353",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Isle of Man",
+        "country_code": "+44",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Israel (‫ישראל‬‎)",
+        "country_code":
+
+            "+972",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Italy (Italia)",
+        "country_code": "+39",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Jamaica",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Japan (日本)",
+        "country_code": "+81",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Jersey",
+        "country_code": "+44",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Jordan (‫الأردن‬‎)",
+        "country_code": "+962",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Kazakhstan (Казахстан)",
+        "country_code": "+7",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Kenya",
+        "country_code": "+254",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Kiribati",
+        "country_code": "+686",
+        "mobile_number_digit": 5
+    }, {
+        "country": "Kuwait (‫الكويت‬‎)",
+        "country_code": "+965",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Kyrgyzstan (Кыргызстан)",
+        "country_code": "+996",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Laos (ລາວ)",
+        "country_code": "+856",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Latvia (Latvija)",
+        "country_code": "+371",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Lebanon (‫لبنان‬‎)",
+        "country_code": "+961",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Lesotho",
+        "country_code": "+266",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Liberia",
+        "country_code": "+231",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Libya (‫ليبيا‬‎)",
+        "country_code": "+218",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Liechtenstein",
+        "country_code": "+423",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Lithuania (Lietuva)",
+        "country_code": "+370",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Luxembourg",
+        "country_code": "+352",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Macau (澳門)",
+        "country_code": "+853",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Macedonia (FYROM) (Македонија)",
+        "country_code": "+389",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Madagascar (Madagasikara)",
+        "country_code": "+261",
+        "mobile_number_digit": 9
+    }, {
+        "country":
+
+            "Malawi",
+        "country_code": "+265",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Malaysia",
+        "country_code": "+60",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Maldives",
+        "country_code": "+960",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Mali",
+        "country_code": "+223",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Malta",
+        "country_code": "+356",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Marshall Islands",
+        "country_code": "+692",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Martinique",
+        "country_code": "+596",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Mauritania (‫موريتانيا‬‎)",
+        "country_code": "+222",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Mauritius (Moris)",
+        "country_code": "+230",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Mayotte",
+        "country_code": "+262",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Mexico (México)",
+        "country_code": "+52",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Micronesia",
+        "country_code": "+691",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Moldova (Republica Moldova)",
+        "country_code": "+373",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Monaco",
+        "country_code": "+377",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Mongolia (Монгол)",
+        "country_code": "+976",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Montenegro (Crna Gora)",
+        "country_code": "+382",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Montserrat",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Morocco (‫المغرب‬‎)",
+        "country_code": "+212",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Mozambique (Moçambique)",
+        "country_code": "+258",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Myanmar (Burma) (မြန်မာ)",
+        "country_code": "+95",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Namibia (Namibië)",
+        "country_code": "+264",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Nauru",
+        "country_code": "+674",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Nepal (नेपाल)",
+        "country_code": "+977",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Netherlands (Nederland)",
+        "country_code": "+31",
+        "mobile_number_digit": 9
+    }, {
+        "country": "New Caledonia (Nouvelle-Calédonie)",
+        "country_code": "+687",
+        "mobile_number_digit": 6
+    }, {
+        "country": "New Zealand",
+        "country_code": "+64",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Nicaragua",
+        "country_code": "+505",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Niger (Nijar)",
+        "country_code": "+227",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Nigeria",
+        "country_code": "+234",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Niue",
+        "country_code": "+683",
+        "mobile_number_digit": 4
+    }, {
+        "country": "Norfolk Island",
+        "country_code": "+672",
+        "mobile_number_digit": 5
+    }, {
+        "country": "North Korea (조선 민주주의 인민 공화국)",
+        "country_code": "+850",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Northern Mariana Islands",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Norway (Norge)",
+        "country_code": "+47",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Oman (‫عُمان‬‎)",
+        "country_code": "+968",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Pakistan (‫پاکستان‬‎)",
+        "country_code": "+92",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Palau",
+        "country_code": "+680",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Palestine (‫فلسطين‬‎)",
+        "country_code": "+970",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Panama (Panamá)",
+        "country_code": "+507",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Papua New Guinea",
+        "country_code": "+675",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Paraguay",
+        "country_code": "+595",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Peru (Perú)",
+        "country_code": "+51",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Philippines",
+        "country_code": "+63",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Poland (Polska)",
+        "country_code": "+48",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Portugal",
+        "country_code": "+351",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Puerto Rico",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Qatar (‫قطر‬‎)",
+        "country_code": "+974",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Réunion (La Réunion)",
+        "country_code": "+262",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Romania (România)",
+        "country_code": "+40",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Russia (Россия)",
+        "country_code": "+7",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Rwanda",
+        "country_code": "+250",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Saint Barthélemy",
+        "country_code": "+590",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Saint Helena",
+        "country_code": "+290",
+        "mobile_number_digit": 4
+    }, {
+        "country": "Saint Kitts and Nevis",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Saint Lucia",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Saint Martin (Saint-Martin (partie française))",
+        "country_code": "+590",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Saint Pierre and Miquelon (Saint-Pierre-et-Miquelon)",
+        "country_code": "+508",
+        "mobile_number_digit": 6
+    }, {
+        "country": "Saint Vincent and the Grenadines",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Samoa",
+        "country_code": "+685",
+        "mobile_number_digit": 7
+    }, {
+        "country": "San Marino",
+        "country_code": "+378",
+        "mobile_number_digit": 6
+    }, {
+        "country": "São Tomé and Príncipe (São Tomé e Príncipe)",
+        "country_code": "+239",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Saudi Arabia (‫المملكة العربية السعودية‬‎)",
+        "country_code": "+966",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Senegal (Sénégal)",
+        "country_code": "+221",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Serbia (Србија)",
+        "country_code": "+381",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Seychelles",
+        "country_code": "+248",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Sierra Leone",
+        "country_code": "+232",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Singapore",
+        "country_code": "+65",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Sint Maarten",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Slovakia (Slovensko)",
+        "country_code": "+421",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Slovenia (Slovenija)",
+        "country_code": "+386",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Solomon Islands",
+        "country_code": "+677",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Somalia (Soomaaliya)",
+        "country_code": "+252",
+        "mobile_number_digit": 8
+    }, {
+        "country": "South Africa",
+        "country_code": "+27",
+        "mobile_number_digit": 9
+    }, {
+        "country": "South Korea (대한민국)",
+        "country_code": "+82",
+        "mobile_number_digit": 10
+    }, {
+        "country": "South Sudan (‫جنوب السودان‬‎)",
+        "country_code": "+211",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Spain (España)",
+        "country_code": "+34",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Sri Lanka (ශ්‍රී ලංකාව)",
+        "country_code": "+94",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Sudan (‫السودان‬‎)",
+        "country_code": "+249",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Suriname",
+        "country_code": "+597",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Svalbard and Jan Mayen",
+        "country_code": "+47",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Swaziland",
+        "country_code": "+268",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Sweden (Sverige)",
+        "country_code": "+46",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Switzerland (Schweiz)",
+        "country_code": "+41",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Syria (‫سوريا‬‎)",
+        "country_code": "+963",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Taiwan (台灣)",
+        "country_code": "+886",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Tajikistan",
+        "country_code": "+992",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Tanzania",
+        "country_code": "+255",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Thailand (ไทย)",
+        "country_code": "+66",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Timor-Leste",
+        "country_code": "+670",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Togo",
+        "country_code": "+228",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Tokelau",
+        "country_code": "+690",
+        "mobile_number_digit": 4
+    }, {
+        "country": "Tonga",
+        "country_code": "+676",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Trinidad and Tob ago",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Tunisia (‫تونس‬‎)",
+        "country_code": "+216",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Turkey (Türkiye)",
+        "country_code": "+90",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Turkmenistan",
+        "country_code": "+993",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Turks and Caicos Islands",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Tuvalu",
+        "country_code": "+688",
+        "mobile_number_digit": 5
+    }, {
+        "country": "U.S. Virgin Islands",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Uganda",
+        "country_code": "+256",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Ukraine (Україна)",
+        "country_code": "+380",
+        "mobile_number_digit": 9
+    }, {
+        "country": "United Arab Emirates (‫الإمارات العربية المتحدة‬‎)",
+        "country_code": "+971",
+        "mobile_number_digit": 9
+    }, {
+        "country": "United Kingdom",
+        "country_code": "+44",
+        "mobile_number_digit": 10
+    }, {
+        "country": "United States",
+        "country_code": "+1",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Uruguay",
+        "country_code": "+598",
+        "mobile_number_digit": 8
+    }, {
+        "country": "Uzbekistan (Oʻzbekiston)",
+        "country_code": "+998",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Vanuatu",
+        "country_code": "+678",
+        "mobile_number_digit": 7
+    }, {
+        "country": "Vatican City (Città del Vaticano)",
+        "country_code": "+39",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Venezuela",
+        "country_code": "+58",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Vietnam (Việt Nam)",
+        "country_code": "+84",
+        "mobile_number_digit": 10
+    }, {
+        "country": "Wallis and Futuna (Wallis-et-Futuna)",
+        "country_code": "+681",
+        "mobile_number_digit": 6
+    }, {
+        "country": "Yemen (‫اليمن‬‎)",
+        "country_code": "+967",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Zambia",
+        "country_code": "+260",
+        "mobile_number_digit": 9
+    }, {
+        "country": "Zimbabwe",
+        "country_code": "+263",
+        "mobile_number_digit": 9
+    }
+]
